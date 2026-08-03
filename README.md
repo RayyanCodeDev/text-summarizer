@@ -13,6 +13,18 @@
 - Backend: Python, Flask, Groq API
 - Frontend: HTML, CSS, JavaScript
 
+---
+
+## 🚀 Latest Release: v1.0
+
+**Features added in the v1.0 update:**
+- ✅ Dark/Light mode toggle with local storage persistence
+- ✅ Sleek horizontal progress bar instead of the spinning loader
+- ✅ Premium fade and slide animation for AI-generated summaries
+- ✅ Custom favicon and mobile app icons
+- ✅ Multiple output formats: Twitter Thread, Bullet Points, Action Items, Simple English
+- ✅ Sentence count fix (enforces exact user request)
+
 ## Live Demo
 https://tinyurl.com/Summarizer-MN
 
